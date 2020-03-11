@@ -1,0 +1,30 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "dummy server for job list",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-G1/dummyserver.git"
+  },
+  "keywords": [
+    "dummy",
+    "server",
+    "using",
+    "json",
+    "server"
+  ],
+  "author": "nathygech111@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathan-G1/dummyserver/issues"
+  },
+  "homepage": "https://github.com/Nathan-G1/dummyserver#readme"
+}
