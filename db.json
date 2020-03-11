@@ -1,156 +1,158 @@
-[
-  {
-    "title": "Django Developer",
-    "price": 200,
-    "description": "I need a senior dDjango Developer",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64e04722df7c04a36fcd7d",
-    "jobDuration": {
-      "amount": 2,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T12:08:39.490Z",
-    "updatedAt": "2020-03-09T13:28:47.275Z",
-    "approved": true,
-    "skillsRequired": [
-      {
-        "label": "Python Developer",
-        "id": "5e64b6159d8574001db52bc5"
+{
+  "jobs": [
+    {
+      "title": "Django Developer",
+      "price": 200,
+      "description": "I need a senior dDjango Developer",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64e04722df7c04a36fcd7d",
+      "jobDuration": {
+        "amount": 2,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T12:08:39.490Z",
+      "updatedAt": "2020-03-09T13:28:47.275Z",
+      "approved": true,
+      "skillsRequired": [
+        {
+          "label": "Python Developer",
+          "id": "5e64b6159d8574001db52bc5"
+        }
+      ],
+      "activities": {
+        "interviewing": 0,
+        "lastInterviewDate": null,
+        "jobId": "5e64e04722df7c04a36fcd7d"
       }
-    ],
-    "activities": {
-      "interviewing": 0,
-      "lastInterviewDate": null,
-      "jobId": "5e64e04722df7c04a36fcd7d"
+    },
+    {
+      "title": "Django Developer",
+      "price": 200,
+      "description": "I need a senior dDjango Developer",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64e01c6d6c25048f25e2ff",
+      "jobDuration": {
+        "amount": 2,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T12:07:56.086Z",
+      "updatedAt": "2020-03-09T13:30:01.255Z",
+      "approved": true,
+      "skillsRequired": [
+        {
+          "label": "Python Developer",
+          "id": "5e64b6159d8574001db52bc5"
+        }
+      ]
+    },
+    {
+      "title": "Django Developer",
+      "price": 200,
+      "description": "I need a senior dDjango Developer",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64e0146d6c25048f25e2fc",
+      "jobDuration": {
+        "amount": 2,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T12:07:48.874Z",
+      "updatedAt": "2020-03-08T12:07:48.881Z",
+      "skillsRequired": [
+        {
+          "label": "Python Developer",
+          "id": "5e64b6159d8574001db52bc5"
+        }
+      ]
+    },
+    {
+      "title": "Django Developer",
+      "price": 200,
+      "description": "I need a senior dDjango Developer",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64dff960989d0476b4c13d",
+      "jobDuration": {
+        "amount": 2,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T12:07:21.891Z",
+      "updatedAt": "2020-03-08T12:07:21.895Z",
+      "skillsRequired": [
+        {
+          "label": "Python Developer",
+          "id": "5e64b6159d8574001db52bc5"
+        }
+      ]
+    },
+    {
+      "title": "Django Developer",
+      "price": 200,
+      "description": "I need a senior Django Developer",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64dfed60989d0476b4c13a",
+      "jobDuration": {
+        "amount": 2,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T12:07:09.785Z",
+      "updatedAt": "2020-03-08T12:07:09.792Z",
+      "skillsRequired": [
+        {
+          "label": "Python Developer",
+          "id": "5e64b6159d8574001db52bc5"
+        }
+      ]
+    },
+    {
+      "title": "Django Developer",
+      "price": 200,
+      "description": "I need a senior Django Developer",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64dfb7753ce30453fa4098",
+      "jobDuration": {
+        "amount": 2,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T12:06:15.461Z",
+      "updatedAt": "2020-03-08T12:06:15.473Z",
+      "skillsRequired": [
+        {
+          "label": "Python Developer",
+          "id": "5e64b6159d8574001db52bc5"
+        }
+      ]
+    },
+    {
+      "title": "Develop Telegram Channels Directory",
+      "price": 100,
+      "description": "need developers to create a telegram channel discovery website.",
+      "noOfFreelancersNeeded": 2,
+      "isApproved": "false",
+      "postedBy": "5e5b4b801a68e500783137d0",
+      "id": "5e64b738a7c26f004f4d9c08",
+      "jobDuration": {
+        "amount": 1,
+        "unit": "weeks"
+      },
+      "createdAt": "2020-03-08T09:13:28.859Z",
+      "updatedAt": "2020-03-08T09:13:28.884Z",
+      "skillsRequired": [
+        {
+          "label": "React.js Developer",
+          "id": "5e64b6159d8574001db52bd1"
+        }
+      ]
     }
-  },
-  {
-    "title": "Django Developer",
-    "price": 200,
-    "description": "I need a senior dDjango Developer",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64e01c6d6c25048f25e2ff",
-    "jobDuration": {
-      "amount": 2,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T12:07:56.086Z",
-    "updatedAt": "2020-03-09T13:30:01.255Z",
-    "approved": true,
-    "skillsRequired": [
-      {
-        "label": "Python Developer",
-        "id": "5e64b6159d8574001db52bc5"
-      }
-    ]
-  },
-  {
-    "title": "Django Developer",
-    "price": 200,
-    "description": "I need a senior dDjango Developer",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64e0146d6c25048f25e2fc",
-    "jobDuration": {
-      "amount": 2,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T12:07:48.874Z",
-    "updatedAt": "2020-03-08T12:07:48.881Z",
-    "skillsRequired": [
-      {
-        "label": "Python Developer",
-        "id": "5e64b6159d8574001db52bc5"
-      }
-    ]
-  },
-  {
-    "title": "Django Developer",
-    "price": 200,
-    "description": "I need a senior dDjango Developer",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64dff960989d0476b4c13d",
-    "jobDuration": {
-      "amount": 2,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T12:07:21.891Z",
-    "updatedAt": "2020-03-08T12:07:21.895Z",
-    "skillsRequired": [
-      {
-        "label": "Python Developer",
-        "id": "5e64b6159d8574001db52bc5"
-      }
-    ]
-  },
-  {
-    "title": "Django Developer",
-    "price": 200,
-    "description": "I need a senior Django Developer",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64dfed60989d0476b4c13a",
-    "jobDuration": {
-      "amount": 2,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T12:07:09.785Z",
-    "updatedAt": "2020-03-08T12:07:09.792Z",
-    "skillsRequired": [
-      {
-        "label": "Python Developer",
-        "id": "5e64b6159d8574001db52bc5"
-      }
-    ]
-  },
-  {
-    "title": "Django Developer",
-    "price": 200,
-    "description": "I need a senior Django Developer",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64dfb7753ce30453fa4098",
-    "jobDuration": {
-      "amount": 2,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T12:06:15.461Z",
-    "updatedAt": "2020-03-08T12:06:15.473Z",
-    "skillsRequired": [
-      {
-        "label": "Python Developer",
-        "id": "5e64b6159d8574001db52bc5"
-      }
-    ]
-  },
-  {
-    "title": "Develop Telegram Channels Directory",
-    "price": 100,
-    "description": "need developers to create a telegram channel discovery website.",
-    "noOfFreelancersNeeded": 2,
-    "isApproved": "false",
-    "postedBy": "5e5b4b801a68e500783137d0",
-    "id": "5e64b738a7c26f004f4d9c08",
-    "jobDuration": {
-      "amount": 1,
-      "unit": "weeks"
-    },
-    "createdAt": "2020-03-08T09:13:28.859Z",
-    "updatedAt": "2020-03-08T09:13:28.884Z",
-    "skillsRequired": [
-      {
-        "label": "React.js Developer",
-        "id": "5e64b6159d8574001db52bd1"
-      }
-    ]
-  }
-]
+  ]
+}
